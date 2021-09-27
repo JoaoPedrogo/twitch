@@ -9,3 +9,5 @@
 <hr>
 
  
+Irei tentar deixar sempre atulizada a lista caso tenha mais bots para adicionar basta entrar em contato pelo discord<br />
+Joãozin#2689
