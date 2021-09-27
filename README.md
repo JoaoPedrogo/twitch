@@ -3,4 +3,4 @@ Utilize o FossaBot
 Link:https://fossabot.com/
 Entre no site permita Api após permitir digite em seu chat /mod fossabot
 
-Em seguida digite !filesay !filesay
+Em seguida digite !filesay https://pastebin.com/raw/jq3XTqck
