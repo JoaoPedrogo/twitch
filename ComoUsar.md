@@ -1,9 +1,11 @@
 # Minha lista de bots para banir da Twitch 
 <hr>
 <br />Utilize o FossaBot
-<br />Link:<b><font color="#000099">https://fossabot.com/</b></font>
+<br />Link:<b>https://fossabot.com/</b>
 <br />Entre no site permita Api após permitir digite em seu chat /mod fossabot
 <br /> Em seguida digite 
 <hr>
 !filesay https://raw.githubusercontent.com/Joaotipo/twitch/master/Lista%20De%20Bots
 <hr>
+
+<font color="#000099">a</font>
