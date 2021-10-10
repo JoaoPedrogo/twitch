@@ -5,7 +5,7 @@
 <br />Entre no site permita Api após permitir digite em seu chat <b>/mod fossabot</b>
 <br /> Em seguida digite:
 <hr>
-<h3>!filesay https://raw.githubusercontent.com/Joaotipo/twitch/master/Lista%20De%20Bots</h3>
+<h3>!filesay https://raw.githubusercontent.com/JoaoPedrogo/twitch/master/Lista%20De%20Bots</h3>
 <hr>
 
  
